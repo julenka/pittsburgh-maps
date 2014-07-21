@@ -3,8 +3,6 @@
 
 Streets with no name are removed from the output
 
-Street map files obtained from https://mapzen.com/metro-extracts/
-
 Usage: label_street_type.py <input_path> <output_path>
 
 Code based off of https://gist.github.com/vlandham/7051466
